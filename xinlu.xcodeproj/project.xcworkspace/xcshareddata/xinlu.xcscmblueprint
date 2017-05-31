@@ -1,23 +1,28 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E91222F4FBD0963009F5B9B6015C103D21B87AE6+++CE0369A",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "567C817D3A0E22E92DC779AA9D7FDCC0F8028729+++CE0369A",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "7A197CB7B32EDB86AEA5CFBEAF5A15B1DBED1C37+++CC4C8E9" : 9223372036854775807,
-    "E91222F4FBD0963009F5B9B6015C103D21B87AE6+++CE0369A" : 9223372036854775807,
-    "7A197CB7B32EDB86AEA5CFBEAF5A15B1DBED1C37+++31059D5" : 9223372036854775807
+    "7A197CB7B32EDB86AEA5CFBEAF5A15B1DBED1C37+++31059D5" : 9223372036854775807,
+    "567C817D3A0E22E92DC779AA9D7FDCC0F8028729+++CE0369A" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2BE7BB9D-806E-45EE-BA73-50A112F26CC4",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "7A197CB7B32EDB86AEA5CFBEAF5A15B1DBED1C37+++CC4C8E9" : "xinlu\/xinlu\/jsoncpp\/",
-    "E91222F4FBD0963009F5B9B6015C103D21B87AE6+++CE0369A" : "xinlu\/",
-    "7A197CB7B32EDB86AEA5CFBEAF5A15B1DBED1C37+++31059D5" : "xinlu\/xinlu\/jsoncpp\/"
+    "7A197CB7B32EDB86AEA5CFBEAF5A15B1DBED1C37+++31059D5" : "xinlu\/xinlu\/jsoncpp\/",
+    "567C817D3A0E22E92DC779AA9D7FDCC0F8028729+++CE0369A" : "xinlu\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "xinlu",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "xinlu.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:veenveenveen\/xinluTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "567C817D3A0E22E92DC779AA9D7FDCC0F8028729+++CE0369A"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:veenveenveen\/jsoncpp.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
@@ -27,11 +32,6 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:veenveenveen\/jsoncpp.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7A197CB7B32EDB86AEA5CFBEAF5A15B1DBED1C37+++CC4C8E9"
-    },
-    {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:veenveenveen\/xinluTest.git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E91222F4FBD0963009F5B9B6015C103D21B87AE6+++CE0369A"
     }
   ]
 }

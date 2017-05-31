@@ -17,9 +17,11 @@
 运行: macOX系统下使用Xcode编译运行，命令行方式
 
 ② 综合排序
+
     使用c++ sort排序 指定排序规则: cmpDefault(默认)，cmpByPrice(优先价格)
 
 ⑤ 加密和解密
+
     RAS加密 C++调用Crypto++，实现对一个字符串的加密和解密
     注意：由于libcryptopp.a文件过大，未一起打包。
         libcryptopp.a文件添加方法：打开 mac 终端，切换到 scripts  目录，
